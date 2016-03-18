@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">easyfeedback</string>
+    <string-array name="feedback_image_picker_dialog_list">
+        <item>"Take Photo"</item>
+        <item>"Choose from Library"</item>
+    </string-array>
+    <string name="feedback_image_picker_select_file">"Pick a photo!"</string>
+    <string name="feedback_image_picker_dialog_title">"Add Photo!"</string>
+</resources>
